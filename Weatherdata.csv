@@ -1,0 +1,11 @@
+City Name,Temperature,Weather Condition,Humdity,Wind Speed,Feels Like,Pressure,Visibility,Time Stamp
+Delhi,288.2,haze,72,1.03,287.64,1015,1700,1734711647
+Tokyo,279.62,overcast clouds,57,0.45,279.62,1017,10000,1734711424
+Singapore,298.77,broken clouds,81,2.57,299.5,1011,10000,1734711484
+London,282.35,light rain,82,4.63,279.89,1015,10000,1734711245
+Bangkok,298.09,overcast clouds,49,1.47,297.92,1013,10000,1734711333
+Provinsi Bali,298.62,overcast clouds,87,2.32,299.49,1009,10000,1734711948
+Rome,281.51,clear sky,75,3.09,279.64,1020,10000,1734712008
+Moscow,276.28,light rain,57,5.62,271.84,1001,10000,1734711483
+Berlin,278.85,few clouds,81,7.72,274.32,1015,10000,1734711880
+Manila,299.95,scattered clouds,80,1.79,302.45,1010,10000,1734711410
